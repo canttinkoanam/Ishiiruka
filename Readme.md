@@ -1,4 +1,4 @@
-This is a version of Ishiiruka, a Dolphin Emulator fork, that has a working cheat download function. Currently, the cheats download function doesn't work due to the fact that the source for cheats is still geckocodes.org, which has been shut down. This fork replaces geckocodes.org with codes.rc24.xyz, a clone of geckocodes.org.
+This is a version of Ishiiruka, a Dolphin Emulator fork, that has a working cheat download function. Currently, the cheats download function doesn't work due to the fact that the source for cheats is still geckocodes.org, which has been shut down. This fork replaces geckocodes.org with codes.rc24.xyz, a clone of geckocodes.org which is still up.
 
 Original README:
 
